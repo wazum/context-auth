@@ -1,0 +1,6 @@
+# cat=basic; type=boolean; label=Activate context authentication
+enable = 0
+# cat=basic; type=string; label=Required sub context (e.g. 'Docker' from 'Development/Docker')
+context = Docker
+# cat=basic; type=string; label=Authenticate with backend username
+username =

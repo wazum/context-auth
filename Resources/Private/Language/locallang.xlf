@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" product-name="context_auth">
+		<header/>
+		<body>
+			<trans-unit id="login.link">
+				<source>Context Authentication</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

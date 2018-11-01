@@ -1,0 +1,15 @@
+{
+  "name": "wazum/context-auth",
+  "license": "GPL-3.0",
+  "description": "Automatic backend authentication if TYPO3_CONTEXT matches",
+  "require": {
+    "php": ">=7.1.0",
+    "typo3/cms-core": "^9.5"
+  },
+  "type": "typo3-cms-extension",
+  "autoload": {
+    "psr-4": {
+      "Wazum\\ContextAuth\\": "Classes"
+    }
+  }
+}
